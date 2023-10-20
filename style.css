@@ -41,6 +41,7 @@ a:hover {
 
 .name {
  margin-left: 30px;
+ border: none;
 }
 
 .active {
