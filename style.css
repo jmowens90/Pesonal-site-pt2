@@ -89,6 +89,7 @@ section {
 
 .images {
   height: 200px;
+  padding: 10px;
 }
 
 #home-page-photo {
